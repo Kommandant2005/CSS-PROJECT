@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>
+ABC
+</title>
+<style>
+h1{
+color:red;
+font-size:50px;
+}
+ol{
+type:I;
+}
+</head>
+<body bgcolor="lightyellow">
+<h1> These are all the HTML things I have learned</h1>
+<ol>
+<li>Form</li>
+<li>Animation</li>
+<li>Shadow</li>
+<li>Before/After Selector Tag</li>
+<li>Div Tag</li>
+<li>Linking</li>
+<li>Label Tag</li>
+<li>Text-Radius</li>
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+ 

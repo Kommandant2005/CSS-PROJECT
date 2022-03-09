@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>
+ABC
+</title>
+<style>
+h1{
+text-shadow:20px 20px blue;
+font-size:200px;
+}
+p{
+text-shadow: 20px 20px green;
+font-size:100px;
+}
+div.a{
+color:yellow;
+background-color:red;
+margin:5px;
+font-size:30px;
+text-transform:uppercase;
+text-shadow:3px 3px cyan;
+}
+div.b{
+color:orange;
+background-color:green;
+margin:5px;
+font-size:30px;
+text-transform:lowercase;
+text-shadow:3px 3px aqua;
+}
+
+div.c{
+color:red;
+background-color:purple;
+margin:5px;
+font-size:30px;
+text-transform:capitalize;
+text-shadow:3px 3px lightblue;
+float:right;
+}
+</style>
+</head>
+<body>
+
+<h1><center>Hello!</center></h1>
+<div class="a">My Name is Param</div>
+<div class="b">I study in X-B</div>
+<div class="c">I study in Anand Vidya Vihar</div>
+<p>
+Hydrogen is the first element in the periodic table.
+</p>
+</body>
+</html>
